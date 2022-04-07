@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thenameissanjai
-- 👀 I’m interested in coding and technical skills
-- 🌱 I’m currently learning 2 programing languages
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning c
 - 📫 How to reach me ig-@thenameissanjai
 
 <!---
